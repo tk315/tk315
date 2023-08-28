@@ -4,7 +4,8 @@ Nice to meet you, I'm Tushar Khandelwal
 
 ## Who Am I? 🤠
 
-- I’m a passionate Competitive Programmer and Web Developer 🚀 
+- Works as an SDE-1 at Toast Inc.
+- I’m a passionate Competitive Programmer and Web Developer
 - I'm Imagine Cup(Microsoft) India Finalist
 - I'm Technical Content Writer at GeeksforGeeks
   Look at my articles - https://auth.geeksforgeeks.org/user/tk315/articles
